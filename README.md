@@ -1,6 +1,11 @@
-# hello_world
+# FlutterHelloWorld
 
-A new Flutter project.
+Tinkering with a the helloworld Flutter project.
+
+## Tinkering Log
+1. The regular counter which keeps incrementing has been changed to decrement after pressing the Floating Action Button
+2. Checkbox added as the part of the body in the homepage, which is a stateful widget, so onClick it changes from false to true
+3. A new text field added in the body, that will change its value on pressing the right top corner add button, the button will change it's state to Icon.Remove on pressing to go back to the previous text
 
 ## Getting Started
 
